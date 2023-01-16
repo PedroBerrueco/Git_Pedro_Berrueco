@@ -4,9 +4,9 @@ public class PB {
 
 	public static void main(String[] args) {		
 		System.out.println("Alumno Pedro Berrueco");
-		System.out.println("ModificaciÛn desde Master - Cambiado");
-		System.out.println("ModificaciÛn desde Develop");
-		System.out.println("Prueba");
+		System.out.println("Modificaci√≥n desde Master - Cambiado");
+		System.out.println("Modificaci√≥n desde Develop");
+		System.out.println("Modificaci√≥n desde GitHub");
 	}
 
 }
